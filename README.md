@@ -16,4 +16,4 @@ Install MongoDB Driver on Visual Basic Project using Nuget Package Manager
 
      Tools > Nuget Package Manager > Package Manager Console
 
-     Install-Package MongoDB.Driver -Version 2.7.3
+     PM> Install-Package MongoDB.Driver -Version 2.7.3
