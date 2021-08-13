@@ -14,4 +14,6 @@ Import file fakultas.json to fakultas collection
 ## MongoDB Driver
 Install MongoDB Driver on Visual Basic Project using Nuget Package Manager
 
+     Tools > Nuget Package Manager > Package Manager Console
+
      Install-Package MongoDB.Driver -Version 2.7.3
