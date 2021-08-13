@@ -6,7 +6,9 @@ Connect to localhost
 
     mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&directConnection=true&ssl=false
     
-## Create a new Database
+## Create a new Database & Collection
 Give it a name: admin, collection name: fakultas
 
-Import file json to fakultas
+Import file fakultas.json to fakultas collection
+
+
