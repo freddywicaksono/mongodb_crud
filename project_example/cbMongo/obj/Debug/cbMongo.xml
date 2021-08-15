@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+cbMongo
+</name>
+</assembly>
+<members>
+<member name="T:cbMongo.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:cbMongo.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:cbMongo.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:cbMongo.Connection.DbName">
+ <summary>
+ DB Name
+ </summary>
+</member>
+<member name="P:cbMongo.Connection.ConnectionString">
+ <summary>
+ Connectio String
+ </summary>
+</member>
+<member name="M:cbMongo.Connection.Connect">
+ <summary>
+ Proses menyambungkan koneksi
+ </summary>
+</member>
+<member name="M:cbMongo.Connection.Disconnect">
+ <summary>
+ Proses memutuskan koneksi
+ </summary>
+</member>
+</members>
+</doc>
